@@ -1,0 +1,5 @@
+# .gitignore
+token.txt
+queries.log
+__pycache__/
+*.pyc
